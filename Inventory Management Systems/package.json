@@ -1,0 +1,17 @@
+{
+  "name": "inventory-management-systems",
+  "version": "1.0.0",
+  "description": "application for managing inventory of a company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kehinde Akereja",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
