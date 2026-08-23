@@ -1,0 +1,18 @@
+{
+  "name": "Student-Management-Api-Assignment",
+  "version": "1.0.0",
+  "description": "application to manage student data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Kehinde Ayotunde Akereja",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}

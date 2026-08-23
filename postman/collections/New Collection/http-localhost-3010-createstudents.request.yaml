@@ -1,0 +1,23 @@
+$kind: http-request
+name: http://localhost:3010/createstudents
+description: ""
+url: http://localhost:3010/deletestudents/:id
+method: DELETE
+pathVariables:
+  id: "4"
+body:
+  type: json
+  content: "{\r
+
+    \    \"Name\":\"Ayoola Ayobami\",\r
+
+    \    \"Age\":\"14\",\r
+
+    \    \"Class\":\"SS2\",\r
+
+    \    \"PhoneNumber\":\"08168595555\",\r
+
+    \    \"Address\":\"12 Igbole, Osogbo, Osun State\"\r
+
+    }"
+order: 1515495131057558
